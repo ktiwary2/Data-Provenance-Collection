@@ -294,7 +294,26 @@
     "Yonsei University",
     "York University",
     "Zhejiang University",
-    "Zurich University of Applied Sciences"
+    "Zurich University of Applied Sciences",
+    "University of Dundee",
+    "Karlsruhe Institute of Technology",
+    "Universidad del Norte",
+    "Middle East Technical University",
+    "Universidad de los Andes",
+    "The Chinese University of Hong Kong",
+    "Université de Sherbrooke",
+    "Polytechnique Montréal",
+    "UTSA: Welcome to The University of Texas at San Antonio",
+    "University of Alabama",
+    "University of California, Santa Barbara",
+    "PSL University - Université PSL",
+    "University of Bristol",
+    "University of Catania",
+    "Ecole Normale Supérieure",
+    "University of Bonn",
+    "California Institute of Technology",
+    "Allen Institute for AI",
+    "University at Buffalo"
   ],
   "Corporation": [
     "ASUS Intelligent Cloud Services (AICS)",
@@ -309,6 +328,7 @@
     "Bank of Ayudhya",
     "Bloomberg",
     "Brox IT-Solutions GmbH",
+    "upicto GmbH",
     "ByteDance AI Lab",
     "CITIC",
     "Databricks",
@@ -347,7 +367,15 @@
     "WeChat AI",
     "Wind Information Co.",
     "Yahoo! Inc.",
-    "Zhihu Inc"
+    "Zhihu Inc",
+    "AiCure",
+    "Meitu Inc.",
+    "Toyota",
+    "Twenty Billion Neurons GmbH",
+    "Naver",
+    "Kuaishou Technology",
+    "Alibaba",
+    "Panasonic Corporation"
   ],
   "Industry Lab": [
     "Chinese Academy of Sciences",
@@ -371,7 +399,9 @@
     "Salesforce Research",
     "Samsung R&D Institute",
     "Tencent AI Lab",
-    "iFLYTEK Research"
+    "iFLYTEK Research",
+    "Disney Research",
+    "Yahoo Labs"
   ],
   "Other": [
     "Boston Childrens Hospital",
@@ -379,14 +409,18 @@
     "CogStack",
     "Joint NTU-UBC Research Centre of Excellence in Active Living for the Elderly",
     "Yobamoodua Cultural Heritage (YMCH)",
-    "explainthejoke.com"
+    "explainthejoke.com",
+    "Vector Institute for Artificial Intelligence",
+    "CIIRC",
+    "Inception Institute of Artificial Intelligence"
   ],
   "Government": [
     "Agency for Science, Technology and Research",
     "China Justice Big Data Institute",
     "Defence Space Administration",
     "NECTEC",
-    "Supreme People’s Court"
+    "Supreme People’s Court",
+    "National Institute of Standards and Technology"
   ],
   "Research Group": [
     "AI2",
@@ -423,7 +457,9 @@
     "The Institute for Human & Machine Cognition",
     "U.S. Army Research Laboratory",
     "Vietnam Institute of Information Technology",
-    "pyThaiNLP"
+    "pyThaiNLP",
+    "Fraunhofer FKIE",
+    "Shanghai Collaborative Innovation Center of Intelligent Visual Computing"
   ],
   "Startup": [
     "01.ai",
@@ -450,6 +486,7 @@
     "Snips",
     "Surge AI",
     "TAUS",
-    "Zhipu AI"
+    "Zhipu AI",
+    "Sensifai"
   ]
 }

@@ -14,7 +14,8 @@
   "Belgium": [
     "Ghent University", 
     "KU Leuven", 
-    "University of Antwerp"
+    "University of Antwerp",
+    "Sensifai"
   ],
   "Brazil": [
     "University of Sao Paulo"
@@ -38,10 +39,14 @@
     "University of Ottawa",
     "University of Toronto",
     "University of Waterloo",
-    "York University"
+    "York University",
+    "Vector Institute for Artificial Intelligence",
+    "Université de Sherbrooke",
+    "Polytechnique Montréal"
   ],
   "Chile": [
-    "CENIA"
+    "CENIA",
+    "Universidad de los Andes"
   ],
   "China": [
     "01.ai",
@@ -85,21 +90,24 @@
     "Tong University",
     "Tongji Medical College",
     "Tsinghua University",
-    "University of Hong Kong",
     "WeChat AI",
     "Westlake University",
     "Wind Information Co.",
     "Xidian University",
     "Zhejiang University",
     "Zhihu Inc",
-    "Zhipu AI"
+    "Zhipu AI",
+    "Meitu Inc.",
+    "Shanghai Collaborative Innovation Center of Intelligent Visual Computing",
+    "Kuaishou Technology"
   ],
   "Croatia": [
     "Faculty of Humanities and Social Sciences\nIvana Luˇci´ca"
   ],
   "Czech Republic": [
     "Charles University", 
-    "Czech Technical University"
+    "Czech Technical University",
+    "CIIRC"
   ],
   "Czechia": [
     "Masaryk University"
@@ -125,7 +133,9 @@
     "Synapse Développement",
     "Telecom Paris",
     "University of Lille",
-    "University of Toulouse"
+    "University of Toulouse",
+    "PSL University - Université PSL",
+    "Ecole Normale Supérieure"
   ],
   "Germany": [
     "Bauhaus-Universitat Weimar",
@@ -159,7 +169,11 @@
     "University of Leipzig",
     "University of Mannheim",
     "University of Stuttgart",
-    "Universität Leipzig"
+    "Universität Leipzig",
+    "Karlsruhe Institute of Technology",
+    "Fraunhofer FKIE",
+    "University of Bonn",
+    "Twenty Billion Neurons GmbH"
   ],
   "Greece": [
     "Aristotle University of Thessaloniki",
@@ -170,7 +184,8 @@
     "Center for Artificial Intelligence Research (CAiRE)",
     "The Hong Kong Polytechnic University",
     "The Hong Kong University of Science and Technology",
-    "The University of Hong Kong"
+    "The University of Hong Kong",
+    "The Chinese University of Hong Kong"
   ],
   "India": [
     "AI4Bharat",
@@ -250,7 +265,8 @@
     "RIKEN Center for Advanced Intelligence Project (AIP)",
     "Tohoku University",
     "Tokyo Metropolitan University",
-    "University of Tokyo"
+    "University of Tokyo",
+    "Panasonic Corporation"
   ],
   "Myanmar": [
     "Yangon University of Computer Studies"
@@ -335,7 +351,8 @@
     "Samsung",
     "Samsung R&D Institute",
     "Seoul National University",
-    "Yonsei University"
+    "Yonsei University",
+    "Naver"
   ],
   "Spain": [
     "Argilla",
@@ -345,7 +362,8 @@
     "Univerisity of Pisa",
     "Universidade da Coruna",
     "University of Alicante",
-    "University of the Basque Country"
+    "University of the Basque Country",
+    "University of Catania"
   ],
   "Sweden": [
     "Uppsala University"
@@ -356,7 +374,8 @@
     "ETH Zürich",
     "Idiap Research Institute",
     "University of Zurich",
-    "Zurich University of Applied Sciences"
+    "Zurich University of Applied Sciences",
+    "upicto GmbH"
   ],
   "Taiwan": [
     "Academia Sinica", 
@@ -372,7 +391,8 @@
   ],
   "UAE": [
     "Abu Dhabi University", 
-    "MBZUAI"
+    "MBZUAI",
+    "Inception Institute of Artificial Intelligence"
   ],
   "United Kingdom": [
     "Alan Turing Institute",
@@ -397,7 +417,9 @@
     "University of Oxford",
     "University of Sheffield",
     "University Of Surrey",
-    "University of Warwick"
+    "University of Warwick",
+    "University of Dundee",
+    "University of Bristol"
   ],
   "United States of America": [
     "AI2",
@@ -535,10 +557,26 @@
     "Virginia Tech",
     "Wright State University",
     "Yahoo! Inc.",
-    "Yale University"
+    "Yale University",
+    "National Institute of Standards and Technology",
+    "Yahoo Labs",
+    "Disney Research",
+    "The University of Texas at San Antonio",
+    "University of Alabama",
+    "University of California, Santa Barbara",
+    "California Institute of Technology",
+    "Toyota",
+    "Allen Institute for AI",
+    "University at Buffalo"
   ],
   "Vietnam": [
     "Vietnam Institute of Information Technology",
     "Vietnam National University Ho Chi Minh City"
+  ],
+  "Colombia": [
+    "Universidad del Norte"
+  ],
+  "Turkey": [
+    "Middle East Technical University"
   ]
 }
