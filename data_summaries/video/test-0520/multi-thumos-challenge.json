@@ -11,6 +11,9 @@
         "Papers with Code URL": "https://paperswithcode.com/dataset/multithumos",
         "ArXiv URL": "https://arxiv.org/pdf/1507.05738v3.pdf",
         "Semantic Scholar Corpus ID": 3337929,
+        "Text Sources": [
+            "YouTube"
+        ],
         "Licenses": [
             {
                 "License": "CC BY 4.0",
@@ -29,6 +32,8 @@
         "License Verified By": "Vivek Sharma",
         "Video Hours": 30.0,
         "Taken Down": "False",
-        "Video Sources": "YouTube"
+        "Video Sources": [
+            "YouTube"
+        ]
     }
 }

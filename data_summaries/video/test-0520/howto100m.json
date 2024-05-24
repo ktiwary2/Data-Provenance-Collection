@@ -11,6 +11,9 @@
         "Papers with Code URL": "https://paperswithcode.com/dataset/howto100m",
         "ArXiv URL": "https://arxiv.org/abs/1906.03327",
         "Semantic Scholar Corpus ID": 182952863,
+        "Text Sources": [
+            "YouTube"
+        ],
         "Licenses": [
             {
                 "License": "Unspecified",
@@ -30,6 +33,8 @@
         "License Verified By": "Vivek Sharma",
         "Video Hours": 134472.0,
         "Taken Down": "False",
-        "Video Sources": "YouTube"
+        "Video Sources": [
+            "YouTube"
+        ]
     }
 }

@@ -11,6 +11,13 @@
         "Papers with Code URL": "https://paperswithcode.com/dataset/hmdb51",
         "ArXiv URL": "https://ieeexplore.ieee.org/document/6126543",
         "Semantic Scholar Corpus ID": 206769852,
+        "Text Sources": [
+            "Movies",
+            "Prelinger archive",
+            "General Web",
+            "YouTube",
+            "Google Videos"
+        ],
         "Licenses": [
             {
                 "License": "CC BY 4.0",
@@ -29,6 +36,12 @@
         "License Verified By": "Vivek Sharma",
         "Video Hours": 7000.0,
         "Taken Down": "False",
-        "Video Sources": "Movies, Prelinger archive, General Web, YouTube, Google Videos"
+        "Video Sources": [
+            "Movies",
+            "Prelinger archive",
+            "General Web",
+            "YouTube",
+            "Google Videos"
+        ]
     }
 }

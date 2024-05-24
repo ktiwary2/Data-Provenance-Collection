@@ -11,6 +11,9 @@
         "Papers with Code URL": "https://paperswithcode.com/dataset/something-something-v2",
         "ArXiv URL": "https://arxiv.org/abs/1706.04261",
         "Semantic Scholar Corpus ID": 834612,
+        "Text Sources": [
+            "crowd-sourced"
+        ],
         "Licenses": [
             {
                 "License": "Custom",
@@ -26,6 +29,8 @@
         "License Verified By": "Vivek Sharma",
         "Video Hours": 121.46,
         "Taken Down": "False",
-        "Video Sources": "crowd-sourced"
+        "Video Sources": [
+            "crowd-sourced"
+        ]
     }
 }

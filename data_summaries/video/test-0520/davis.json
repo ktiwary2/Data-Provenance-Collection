@@ -11,6 +11,9 @@
         "Papers with Code URL": "https://paperswithcode.com/paper/a-benchmark-dataset-and-evaluation",
         "ArXiv URL": "https://ieeexplore.ieee.org/document/7780454",
         "Semantic Scholar Corpus ID": 3619941,
+        "Text Sources": [
+            "General web"
+        ],
         "Licenses": [
             {
                 "License": "Custom",
@@ -27,6 +30,8 @@
         "License Verified By": "Vivek Sharma",
         "Video Hours": 0.04,
         "Taken Down": "False",
-        "Video Sources": "General web"
+        "Video Sources": [
+            "General web"
+        ]
     }
 }

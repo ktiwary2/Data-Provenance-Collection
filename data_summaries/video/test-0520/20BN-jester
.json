@@ -11,6 +11,9 @@
         "Papers with Code URL": "",
         "ArXiv URL": "https://openaccess.thecvf.com/content_ICCVW_2019/papers/HANDS/Materzynska_The_Jester_Dataset_A_Large-Scale_Video_Dataset_of_Human_Gestures_ICCVW_2019_paper.pdf",
         "Semantic Scholar Corpus ID": 208010438,
+        "Text Sources": [
+            "crowd-sourced"
+        ],
         "Licenses": [
             {
                 "License": "Custom",
@@ -26,6 +29,8 @@
         "License Verified By": "Vivek Sharma",
         "Video Hours": 13.0,
         "Taken Down": "False",
-        "Video Sources": "crowd-sourced"
+        "Video Sources": [
+            "crowd-sourced"
+        ]
     }
 }

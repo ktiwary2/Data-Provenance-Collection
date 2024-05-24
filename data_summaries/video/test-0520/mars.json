@@ -11,6 +11,9 @@
         "Papers with Code URL": "https://paperswithcode.com/dataset/mars",
         "ArXiv URL": "https://link.springer.com/content/pdf/10.1007/978-3-319-46466-4_52.pdf",
         "Semantic Scholar Corpus ID": 2214158,
+        "Text Sources": [
+            "Human Participants"
+        ],
         "Licenses": [
             {
                 "License": "Unspecified",
@@ -29,6 +32,8 @@
         "License Verified By": "Vivek Sharma",
         "Video Hours": 0.24,
         "Taken Down": "False",
-        "Video Sources": "Human Participants"
+        "Video Sources": [
+            "Human Participants"
+        ]
     }
 }

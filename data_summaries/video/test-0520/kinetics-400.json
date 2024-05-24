@@ -11,6 +11,9 @@
         "Papers with Code URL": "https://paperswithcode.com/dataset/kinetics",
         "ArXiv URL": "https://arxiv.org/abs/1705.06950",
         "Semantic Scholar Corpus ID": 27300853,
+        "Text Sources": [
+            "Human Participants"
+        ],
         "Licenses": [
             {
                 "License": "Unspecified",
@@ -26,6 +29,8 @@
         "License Verified By": "Vivek Sharma",
         "Video Hours": 850.68,
         "Taken Down": "False",
-        "Video Sources": "Human Participants"
+        "Video Sources": [
+            "Human Participants"
+        ]
     }
 }

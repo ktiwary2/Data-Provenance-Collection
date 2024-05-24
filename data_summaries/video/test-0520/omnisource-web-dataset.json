@@ -11,6 +11,11 @@
         "Papers with Code URL": "https://paperswithcode.com/paper/omni-sourced-webly-supervised-learning-for#code",
         "ArXiv URL": "https://arxiv.org/abs/2003.13042",
         "Semantic Scholar Corpus ID": 214714240,
+        "Text Sources": [
+            "GoogleImage",
+            "Instagram",
+            "YoutubeVideo"
+        ],
         "Licenses": [
             {
                 "License": "Apache License 2.0",
@@ -26,6 +31,10 @@
         "License Verified By": "Vivek Sharma",
         "Video Hours": 13333.0,
         "Taken Down": "False",
-        "Video Sources": "GoogleImage, Instagram, YoutubeVideo"
+        "Video Sources": [
+            "GoogleImage",
+            "Instagram",
+            "YoutubeVideo"
+        ]
     }
 }

@@ -11,6 +11,9 @@
         "Papers with Code URL": "https://paperswithcode.com/paper/deep-multimodal-feature-encoding-for-video",
         "ArXiv URL": "https://arxiv.org/pdf/2004.02205",
         "Semantic Scholar Corpus ID": 214802821,
+        "Text Sources": [
+            "Movies"
+        ],
         "Licenses": [
             {
                 "License": "MIT License",
@@ -32,6 +35,8 @@
         "License Verified By": "Vivek Sharma",
         "Video Hours": 158.0,
         "Taken Down": "False",
-        "Video Sources": "Movies"
+        "Video Sources": [
+            "Movies"
+        ]
     }
 }

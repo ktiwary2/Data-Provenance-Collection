@@ -11,6 +11,9 @@
         "Papers with Code URL": "",
         "ArXiv URL": "https://arxiv.org/pdf/1501.02530.pdf",
         "Semantic Scholar Corpus ID": 15184723,
+        "Text Sources": [
+            "Movies"
+        ],
         "Licenses": [
             {
                 "License": "Unspecified",
@@ -26,6 +29,8 @@
         "License Verified By": "Vivek Sharma",
         "Video Hours": 56.5,
         "Taken Down": "False",
-        "Video Sources": "Movies"
+        "Video Sources": [
+            "Movies"
+        ]
     }
 }

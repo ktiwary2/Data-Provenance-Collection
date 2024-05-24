@@ -11,6 +11,9 @@
         "Papers with Code URL": "",
         "ArXiv URL": "https://paperswithcode.com/dataset/didemo",
         "Semantic Scholar Corpus ID": 52164739,
+        "Text Sources": [
+            "Flickr"
+        ],
         "Licenses": [
             {
                 "License": "BSD 2-Clause License",
@@ -26,6 +29,8 @@
         "License Verified By": "Vivek Sharma",
         "Video Hours": 275.0,
         "Taken Down": "False",
-        "Video Sources": "Flickr"
+        "Video Sources": [
+            "Flickr"
+        ]
     }
 }

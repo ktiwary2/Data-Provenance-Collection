@@ -11,6 +11,9 @@
         "Papers with Code URL": "https://paperswithcode.com/dataset/activitynet",
         "ArXiv URL": "https://ieeexplore.ieee.org/document/7298698",
         "Semantic Scholar Corpus ID": 1710722,
+        "Text Sources": [
+            "General web"
+        ],
         "Licenses": [
             {
                 "License": "MIT License",
@@ -28,6 +31,8 @@
         "License Verified By": "Vivek Sharma",
         "Video Hours": 849.0,
         "Taken Down": "False",
-        "Video Sources": "General web"
+        "Video Sources": [
+            "General web"
+        ]
     }
 }

@@ -11,6 +11,9 @@
         "Papers with Code URL": "https://paperswithcode.com/paper/oops-predicting-unintentional-action-in-video",
         "ArXiv URL": "https://openaccess.thecvf.com/content_CVPR_2020/papers/Epstein_Oops_Predicting_Unintentional_Action_in_Video_CVPR_2020_paper.pdf",
         "Semantic Scholar Corpus ID": 208291335,
+        "Text Sources": [
+            "YouTube"
+        ],
         "Licenses": [
             {
                 "License": "CC BY-NC-SA 4.0",
@@ -26,6 +29,8 @@
         "License Verified By": "Vivek Sharma",
         "Video Hours": 50.0,
         "Taken Down": "False",
-        "Video Sources": "YouTube"
+        "Video Sources": [
+            "YouTube"
+        ]
     }
 }

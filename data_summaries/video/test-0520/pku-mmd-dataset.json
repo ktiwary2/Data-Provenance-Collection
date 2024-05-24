@@ -11,6 +11,9 @@
         "Papers with Code URL": "https://paperswithcode.com/paper/pku-mmd-a-large-scale-benchmark-for",
         "ArXiv URL": "https://arxiv.org/abs/1703.07475",
         "Semantic Scholar Corpus ID": 1904265,
+        "Text Sources": [
+            "crowd-sourced"
+        ],
         "Licenses": [
             {
                 "License": "Unspecified",
@@ -27,6 +30,8 @@
         "License Verified By": "Vivek Sharma",
         "Video Hours": 50.0,
         "Taken Down": "False",
-        "Video Sources": "crowd-sourced"
+        "Video Sources": [
+            "crowd-sourced"
+        ]
     }
 }

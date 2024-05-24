@@ -11,6 +11,9 @@
         "Papers with Code URL": "https://paperswithcode.com/paper/apes-audiovisual-person-search-in-untrimmed/review/",
         "ArXiv URL": "https://arxiv.org/pdf/2106.01667",
         "Semantic Scholar Corpus ID": 235313698,
+        "Text Sources": [
+            "Movies"
+        ],
         "Licenses": [
             {
                 "License": "Unspecified",
@@ -30,6 +33,8 @@
         "License Verified By": "Vivek Sharma",
         "Video Hours": 36.0,
         "Taken Down": "False",
-        "Video Sources": "Movies"
+        "Video Sources": [
+            "Movies"
+        ]
     }
 }

@@ -11,6 +11,9 @@
         "Papers with Code URL": "https://paperswithcode.com/paper/mimetics-towards-understanding-human-actions",
         "ArXiv URL": "https://arxiv.org/abs/1912.07249",
         "Semantic Scholar Corpus ID": 209376248,
+        "Text Sources": [
+            "YouTube"
+        ],
         "Licenses": [
             {
                 "License": "Unspecified",
@@ -26,6 +29,8 @@
         "License Verified By": "Vivek Sharma",
         "Video Hours": 0.99,
         "Taken Down": "False",
-        "Video Sources": "YouTube"
+        "Video Sources": [
+            "YouTube"
+        ]
     }
 }

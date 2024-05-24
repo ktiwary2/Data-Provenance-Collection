@@ -11,6 +11,9 @@
         "Papers with Code URL": "https://paperswithcode.com/paper/ava-a-video-dataset-of-spatio-temporally",
         "ArXiv URL": "https://arxiv.org/pdf/1705.08421",
         "Semantic Scholar Corpus ID": 688013,
+        "Text Sources": [
+            "YouTube"
+        ],
         "Licenses": [
             {
                 "License": "CC BY 4.0",
@@ -26,6 +29,8 @@
         "License Verified By": "Vivek Sharma",
         "Video Hours": 107.5,
         "Taken Down": "False",
-        "Video Sources": "YouTube"
+        "Video Sources": [
+            "YouTube"
+        ]
     }
 }

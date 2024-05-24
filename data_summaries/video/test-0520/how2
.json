@@ -11,6 +11,9 @@
         "Papers with Code URL": "",
         "ArXiv URL": "https://arxiv.org/abs/1811.00347",
         "Semantic Scholar Corpus ID": 53186236,
+        "Text Sources": [
+            "YouTube"
+        ],
         "Licenses": [
             {
                 "License": "Various",
@@ -26,6 +29,8 @@
         "License Verified By": "Vivek Sharma",
         "Video Hours": 2300.0,
         "Taken Down": "False",
-        "Video Sources": "YouTube"
+        "Video Sources": [
+            "YouTube"
+        ]
     }
 }

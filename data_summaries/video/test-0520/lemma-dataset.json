@@ -11,6 +11,10 @@
         "Papers with Code URL": "https://paperswithcode.com/dataset/lemma",
         "ArXiv URL": "https://arxiv.org/abs/2007.15781",
         "Semantic Scholar Corpus ID": 220634784,
+        "Text Sources": [
+            "crowd-sourced",
+            "Human Participants"
+        ],
         "Licenses": [
             {
                 "License": "Unspecified",
@@ -26,6 +30,9 @@
         "License Verified By": "Vivek Sharma",
         "Video Hours": 10.8,
         "Taken Down": "False",
-        "Video Sources": "crowd-sourced, Human Participants"
+        "Video Sources": [
+            "crowd-sourced",
+            "Human Participants"
+        ]
     }
 }
