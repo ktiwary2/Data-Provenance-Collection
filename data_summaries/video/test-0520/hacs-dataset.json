@@ -1,10 +1,10 @@
 {
-    "HACS: Human Action Clips and Segments Dataset for Recognition and Temporal Localization\r\n": {
+    "HACS: Human Action Clips and Segments Dataset for Recognition and Temporal Localization\n": {
         "Unique Dataset Identifier": "hacs-dataset",
         "Collection": "hacs-dataset",
         "Collection URL": "https://arxiv.org/abs/1712.09374",
-        "Dataset Name": "HACS: Human Action Clips and Segments Dataset for Recognition and Temporal Localization\r\n",
-        "Paper Title": "HACS: Human Action Clips and Segments Dataset for Recognition and Temporal Localization\r\n",
+        "Dataset Name": "HACS: Human Action Clips and Segments Dataset for Recognition and Temporal Localization\n",
+        "Paper Title": "HACS: Human Action Clips and Segments Dataset for Recognition and Temporal Localization\n",
         "Paper URL": "https://arxiv.org/abs/1712.09374",
         "GitHub URL": "https://github.com/hangzhaomit/HACS-dataset",
         "Hugging Face URL": "",
@@ -12,7 +12,7 @@
         "ArXiv URL": "https://arxiv.org/abs/1712.09374",
         "Semantic Scholar Corpus ID": 68049510,
         "Text Sources": [
-            "YouTube"
+            "youtube"
         ],
         "Licenses": [
             {
@@ -32,7 +32,7 @@
         "Video Hours": 833.0,
         "Taken Down": "False",
         "Video Sources": [
-            "YouTube"
+            "youtube"
         ]
     }
 }

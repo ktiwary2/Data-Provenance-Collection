@@ -12,8 +12,8 @@
         "ArXiv URL": "https://arxiv.org/abs/2011.11071",
         "Semantic Scholar Corpus ID": 261006321,
         "Text Sources": [
-            "YouTube",
-            "YouDescribe"
+            "youtube",
+            "youdescribe"
         ],
         "Licenses": [
             {
@@ -31,8 +31,8 @@
         "Video Hours": 207.0,
         "Taken Down": "False",
         "Video Sources": [
-            "YouTube",
-            "YouDescribe"
+            "youtube",
+            "youdescribe"
         ]
     }
 }

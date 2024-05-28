@@ -12,7 +12,7 @@
         "ArXiv URL": "https://cvgl.stanford.edu/papers/Wongun_CollectiveActivityRecognition09.pdf",
         "Semantic Scholar Corpus ID": 5925915,
         "Text Sources": [
-            "Human Participants"
+            "human"
         ],
         "Licenses": [
             {
@@ -30,7 +30,7 @@
         "Video Hours": 0.1,
         "Taken Down": "False",
         "Video Sources": [
-            "Human Participants"
+            "human"
         ]
     }
 }

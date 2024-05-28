@@ -12,7 +12,7 @@
         "ArXiv URL": "https://arxiv.org/abs/1804.02748",
         "Semantic Scholar Corpus ID": 4710439,
         "Text Sources": [
-            "Human Participants"
+            "human"
         ],
         "Licenses": [
             {
@@ -34,7 +34,7 @@
         "Video Hours": 100.0,
         "Taken Down": "False",
         "Video Sources": [
-            "Human Participants"
+            "human"
         ]
     }
 }

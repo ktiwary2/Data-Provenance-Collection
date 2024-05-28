@@ -12,7 +12,7 @@
         "ArXiv URL": "https://arxiv.org/pdf/2005.04208",
         "Semantic Scholar Corpus ID": 218571391,
         "Text Sources": [
-            "Movies"
+            "movies"
         ],
         "Licenses": [
             {
@@ -30,7 +30,7 @@
         "Video Hours": 1270.0,
         "Taken Down": "False",
         "Video Sources": [
-            "Movies"
+            "movies"
         ]
     }
 }

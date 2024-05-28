@@ -12,16 +12,17 @@
         "ArXiv URL": "https://arxiv.org/abs/2105.04489",
         "Semantic Scholar Corpus ID": 233992735,
         "Text Sources": [
-            "Youtube",
-            "Flickr",
-            "Vine",
-            "Metacafe",
-            "Peeks",
-            "Vimeo",
-            "VideoBlocks",
-            "Bing,\r\nGiphy",
-            "The Weather Channel",
-            "and Getty-Images"
+            "youtube",
+            "flickr",
+            "vine",
+            "metacafe",
+            "peeks",
+            "vimeo",
+            "videoblocks",
+            "bing videos",
+            "giphy",
+            "weather channel",
+            "getty-images"
         ],
         "Licenses": [
             {
@@ -41,16 +42,17 @@
         "Video Hours": 416.67,
         "Taken Down": "False",
         "Video Sources": [
-            "Youtube",
-            "Flickr",
-            "Vine",
-            "Metacafe",
-            "Peeks",
-            "Vimeo",
-            "VideoBlocks",
-            "Bing,\r\nGiphy",
-            "The Weather Channel",
-            "and Getty-Images"
+            "youtube",
+            "flickr",
+            "vine",
+            "metacafe",
+            "peeks",
+            "vimeo",
+            "videoblocks",
+            "bing videos",
+            "giphy",
+            "weather channel",
+            "getty-images"
         ]
     }
 }

@@ -1,10 +1,10 @@
 {
-    "RareAct: A video dataset of unusual interactions\r\n": {
+    "RareAct: A video dataset of unusual interactions\n": {
         "Unique Dataset Identifier": "rare-act-dataset",
         "Collection": "rare-act-dataset",
         "Collection URL": "https://arxiv.org/pdf/2008.01018.pdf",
-        "Dataset Name": "RareAct: A video dataset of unusual interactions\r\n",
-        "Paper Title": "RareAct: A video dataset of unusual interactions\r\n",
+        "Dataset Name": "RareAct: A video dataset of unusual interactions\n",
+        "Paper Title": "RareAct: A video dataset of unusual interactions\n",
         "Paper URL": "https://arxiv.org/pdf/2008.01018.pdf",
         "GitHub URL": "https://github.com/antoine77340/RareAct",
         "Hugging Face URL": "",
@@ -12,7 +12,7 @@
         "ArXiv URL": "https://arxiv.org/pdf/2008.01018.pdf",
         "Semantic Scholar Corpus ID": 220936243,
         "Text Sources": [
-            "General Web"
+            "undisclosed web"
         ],
         "Licenses": [
             {
@@ -36,7 +36,7 @@
         "Video Hours": 21.13,
         "Taken Down": "False",
         "Video Sources": [
-            "General Web"
+            "undisclosed web"
         ]
     }
 }

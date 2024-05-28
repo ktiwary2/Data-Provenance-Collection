@@ -12,9 +12,9 @@
         "ArXiv URL": "https://arxiv.org/abs/2003.13042",
         "Semantic Scholar Corpus ID": 214714240,
         "Text Sources": [
-            "GoogleImage",
-            "Instagram",
-            "YoutubeVideo"
+            "google videos",
+            "instagram",
+            "youtube"
         ],
         "Licenses": [
             {
@@ -32,9 +32,9 @@
         "Video Hours": 13333.0,
         "Taken Down": "False",
         "Video Sources": [
-            "GoogleImage",
-            "Instagram",
-            "YoutubeVideo"
+            "google videos",
+            "instagram",
+            "youtube"
         ]
     }
 }

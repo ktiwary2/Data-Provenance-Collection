@@ -1,10 +1,10 @@
 {
-    "Sports-1M: Large-scale Video Classification with Convolutional Neural Networks\r\n": {
-        "Unique Dataset Identifier": "sports1M-dataset\r\n",
-        "Collection": "sports1M-dataset\r\n",
+    "Sports-1M: Large-scale Video Classification with Convolutional Neural Networks\n": {
+        "Unique Dataset Identifier": "sports1M-dataset\n",
+        "Collection": "sports1M-dataset\n",
         "Collection URL": "https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42455.pdf",
-        "Dataset Name": "Sports-1M: Large-scale Video Classification with Convolutional Neural Networks\r\n",
-        "Paper Title": "Sports-1M: Large-scale Video Classification with Convolutional Neural Networks\r\n",
+        "Dataset Name": "Sports-1M: Large-scale Video Classification with Convolutional Neural Networks\n",
+        "Paper Title": "Sports-1M: Large-scale Video Classification with Convolutional Neural Networks\n",
         "Paper URL": "https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42455.pdf",
         "GitHub URL": "https://github.com/gtoderici/sports-1m-dataset",
         "Hugging Face URL": "",
@@ -12,7 +12,7 @@
         "ArXiv URL": "https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42455.pdf",
         "Semantic Scholar Corpus ID": 206592218,
         "Text Sources": [
-            "YouTube"
+            "youtube"
         ],
         "Licenses": [
             {
@@ -30,7 +30,7 @@
         "Video Hours": 105761.41,
         "Taken Down": "False",
         "Video Sources": [
-            "YouTube"
+            "youtube"
         ]
     }
 }

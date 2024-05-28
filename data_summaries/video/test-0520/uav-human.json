@@ -1,10 +1,10 @@
 {
-    "UAV-Human: A Large Benchmark for Human Behavior Understanding with Unmanned Aerial Vehicles\r\n": {
+    "UAV-Human: A Large Benchmark for Human Behavior Understanding with Unmanned Aerial Vehicles\n": {
         "Unique Dataset Identifier": "uav-human",
         "Collection": "uav-human",
         "Collection URL": "https://arxiv.org/abs/2104.00946",
-        "Dataset Name": "UAV-Human: A Large Benchmark for Human Behavior Understanding with Unmanned Aerial Vehicles\r\n",
-        "Paper Title": "UAV-Human: A Large Benchmark for Human Behavior Understanding with Unmanned Aerial Vehicles\r\n",
+        "Dataset Name": "UAV-Human: A Large Benchmark for Human Behavior Understanding with Unmanned Aerial Vehicles\n",
+        "Paper Title": "UAV-Human: A Large Benchmark for Human Behavior Understanding with Unmanned Aerial Vehicles\n",
         "Paper URL": "https://arxiv.org/abs/2104.00946",
         "GitHub URL": "https://github.com/sutdcv/UAV-Human",
         "Hugging Face URL": "",
@@ -12,7 +12,7 @@
         "ArXiv URL": "https://arxiv.org/abs/2104.00946",
         "Semantic Scholar Corpus ID": 233004700,
         "Text Sources": [
-            "Human Participants"
+            "human"
         ],
         "Licenses": [
             {
@@ -32,7 +32,7 @@
         "Video Hours": 18.34,
         "Taken Down": "False",
         "Video Sources": [
-            "Human Participants"
+            "human"
         ]
     }
 }

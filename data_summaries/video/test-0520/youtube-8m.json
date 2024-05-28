@@ -1,10 +1,10 @@
 {
-    "Youtube-8M: A Large-Scale Video Classification Benchmark\r\n": {
+    "Youtube-8M: A Large-Scale Video Classification Benchmark\n": {
         "Unique Dataset Identifier": "youtube-8m",
         "Collection": "youtube-8m",
         "Collection URL": "https://arxiv.org/abs/1609.08675",
-        "Dataset Name": "Youtube-8M: A Large-Scale Video Classification Benchmark\r\n",
-        "Paper Title": "Youtube-8M: A Large-Scale Video Classification Benchmark\r\n",
+        "Dataset Name": "Youtube-8M: A Large-Scale Video Classification Benchmark\n",
+        "Paper Title": "Youtube-8M: A Large-Scale Video Classification Benchmark\n",
         "Paper URL": "https://arxiv.org/abs/1609.08675",
         "GitHub URL": "",
         "Hugging Face URL": "",
@@ -12,7 +12,7 @@
         "ArXiv URL": "https://arxiv.org/abs/1609.08675",
         "Semantic Scholar Corpus ID": 11241677,
         "Text Sources": [
-            "YouTube"
+            "youtube"
         ],
         "Licenses": [
             {
@@ -30,7 +30,7 @@
         "Video Hours": 350000.0,
         "Taken Down": "False",
         "Video Sources": [
-            "YouTube"
+            "youtube"
         ]
     }
 }

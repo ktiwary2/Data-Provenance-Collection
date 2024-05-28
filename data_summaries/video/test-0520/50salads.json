@@ -12,7 +12,7 @@
         "ArXiv URL": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b9410401cec076baef045e83953f3ff24f25d149",
         "Semantic Scholar Corpus ID": 2333743,
         "Text Sources": [
-            "Human Participants"
+            "human"
         ],
         "Licenses": [
             {
@@ -30,7 +30,7 @@
         "Video Hours": 40.0,
         "Taken Down": "False",
         "Video Sources": [
-            "Human Participants"
+            "human"
         ]
     }
 }

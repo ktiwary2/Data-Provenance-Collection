@@ -15,6 +15,7 @@ def check_datasummary_in_constants_video(rows, all_constants):
     CREATOR_TO_COUNTRY = {v: k for k, vs in all_constants["CREATOR_COUNTRY_GROUPS"].items() for v in vs}
     CREATOR_TO_GROUP = {v: k for k, vs in all_constants["CREATOR_GROUPS"].items() for v in vs}
     LICENSE_CLASSES = list(all_constants["LICENSE_CLASSES"].keys()) + list(all_constants["CUSTOM_LICENSE_CLASSES"].keys())
+    SOURCE_TO_GROUP = {v: k for k, vs in all_constants["DOMAIN_GROUPS"].items() for v in vs}
 
     def check_entities(collection_id, vals, const_map, miss_dict):
         for v in vals:
@@ -33,6 +34,9 @@ def check_datasummary_in_constants_video(rows, all_constants):
 
         check_entities(row["Collection"], row.get("Creators", []), 
                        CREATOR_TO_COUNTRY, missing_metadata["Creator Countries"])
+
+        check_entities(row["Collection"], row.get("Video Sources", []), 
+                       SOURCE_TO_GROUP, missing_metadata["Video Sources"])
         
     for category, missing_info in missing_metadata.items():
         if len(missing_info) == 0:

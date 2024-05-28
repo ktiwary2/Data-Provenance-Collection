@@ -1,10 +1,10 @@
 {
-    "NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis (CVPR 2016, TPAMI 2019)\r\n": {
+    "NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis (CVPR 2016, TPAMI 2019)\n": {
         "Unique Dataset Identifier": "ntu-rgbd",
         "Collection": "ntu-rgbd",
         "Collection URL": "https://arxiv.org/pdf/1604.02808.pdf",
-        "Dataset Name": "NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis (CVPR 2016, TPAMI 2019)\r\n",
-        "Paper Title": "NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis (CVPR 2016, TPAMI 2019)\r\n",
+        "Dataset Name": "NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis (CVPR 2016, TPAMI 2019)\n",
+        "Paper Title": "NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis (CVPR 2016, TPAMI 2019)\n",
         "Paper URL": "https://arxiv.org/pdf/1604.02808.pdf",
         "GitHub URL": "https://github.com/shahroudy/NTURGB-D",
         "Hugging Face URL": "",
@@ -12,7 +12,7 @@
         "ArXiv URL": "https://arxiv.org/pdf/1604.02808.pdf",
         "Semantic Scholar Corpus ID": 15928602,
         "Text Sources": [
-            "crowd-sourced"
+            "crowdsourced"
         ],
         "Licenses": [
             {
@@ -30,7 +30,7 @@
         "Video Hours": 74.1,
         "Taken Down": "False",
         "Video Sources": [
-            "crowd-sourced"
+            "crowdsourced"
         ]
     }
 }
