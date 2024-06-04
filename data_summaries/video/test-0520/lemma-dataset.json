@@ -16,6 +16,9 @@
             "crowdsourced",
             "human"
         ],
+        "Video Task": [
+            "Action Recognition"
+        ],
         "Licenses": [
             {
                 "License": "Unspecified",

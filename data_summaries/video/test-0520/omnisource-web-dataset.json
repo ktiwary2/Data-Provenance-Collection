@@ -17,6 +17,9 @@
             "instagram",
             "youtube"
         ],
+        "Video Task": [
+            "Video Classification"
+        ],
         "Licenses": [
             {
                 "License": "Apache License 2.0",

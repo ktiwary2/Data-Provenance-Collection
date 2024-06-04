@@ -1,0 +1,558 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.17.0.json",
+  "config": {
+    "view": {
+      "continuousHeight": 300,
+      "continuousWidth": 300
+    }
+  },
+  "data": {
+    "name": "data-3f2f85b2820056c6fa58130a6bfff046"
+  },
+  "datasets": {
+    "data-3f2f85b2820056c6fa58130a6bfff046": [
+      {
+        "category": "Non-Commercial/\nAcademic",
+        "index": "< 2013",
+        "order": 0,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Non-Commercial/\nAcademic",
+        "index": "2013",
+        "order": 0,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Non-Commercial/\nAcademic",
+        "index": "2014",
+        "order": 0,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Non-Commercial/\nAcademic",
+        "index": "2015",
+        "order": 0,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Non-Commercial/\nAcademic",
+        "index": "2016",
+        "order": 0,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Non-Commercial/\nAcademic",
+        "index": "2017",
+        "order": 0,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Non-Commercial/\nAcademic",
+        "index": "2018",
+        "order": 0,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Non-Commercial/\nAcademic",
+        "index": "2019",
+        "order": 0,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Non-Commercial/\nAcademic",
+        "index": "2020",
+        "order": 0,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Non-Commercial/\nAcademic",
+        "index": "2021",
+        "order": 0,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Non-Commercial/\nAcademic",
+        "index": "2022",
+        "order": 0,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Non-Commercial/\nAcademic",
+        "index": "2023",
+        "order": 0,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Non-Commercial/\nAcademic",
+        "index": "2024",
+        "order": 0,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Unspecified",
+        "index": "< 2013",
+        "order": 1,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Unspecified",
+        "index": "2013",
+        "order": 1,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Unspecified",
+        "index": "2014",
+        "order": 1,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Unspecified",
+        "index": "2015",
+        "order": 1,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Unspecified",
+        "index": "2016",
+        "order": 1,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Unspecified",
+        "index": "2017",
+        "order": 1,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Unspecified",
+        "index": "2018",
+        "order": 1,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Unspecified",
+        "index": "2019",
+        "order": 1,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Unspecified",
+        "index": "2020",
+        "order": 1,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Unspecified",
+        "index": "2021",
+        "order": 1,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Unspecified",
+        "index": "2022",
+        "order": 1,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Unspecified",
+        "index": "2023",
+        "order": 1,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Unspecified",
+        "index": "2024",
+        "order": 1,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Commercial",
+        "index": "< 2013",
+        "order": 2,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Commercial",
+        "index": "2013",
+        "order": 2,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Commercial",
+        "index": "2014",
+        "order": 2,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Commercial",
+        "index": "2015",
+        "order": 2,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Commercial",
+        "index": "2016",
+        "order": 2,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Commercial",
+        "index": "2017",
+        "order": 2,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Commercial",
+        "index": "2018",
+        "order": 2,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Commercial",
+        "index": "2019",
+        "order": 2,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Commercial",
+        "index": "2020",
+        "order": 2,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Commercial",
+        "index": "2021",
+        "order": 2,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Commercial",
+        "index": "2022",
+        "order": 2,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Commercial",
+        "index": "2023",
+        "order": 2,
+        "percentage": null,
+        "value": 0
+      },
+      {
+        "category": "Commercial",
+        "index": "2024",
+        "order": 2,
+        "percentage": null,
+        "value": 0
+      }
+    ],
+    "data-9796e2f2a07606254363878737048ba2": [
+      {
+        "index": "< 2013",
+        "text_label": "(0)",
+        "total": 0
+      },
+      {
+        "index": "2013",
+        "text_label": "(0)",
+        "total": 0
+      },
+      {
+        "index": "2014",
+        "text_label": "(0)",
+        "total": 0
+      },
+      {
+        "index": "2015",
+        "text_label": "(0)",
+        "total": 0
+      },
+      {
+        "index": "2016",
+        "text_label": "(0)",
+        "total": 0
+      },
+      {
+        "index": "2017",
+        "text_label": "(0)",
+        "total": 0
+      },
+      {
+        "index": "2018",
+        "text_label": "(0)",
+        "total": 0
+      },
+      {
+        "index": "2019",
+        "text_label": "(0)",
+        "total": 0
+      },
+      {
+        "index": "2020",
+        "text_label": "(0)",
+        "total": 0
+      },
+      {
+        "index": "2021",
+        "text_label": "(0)",
+        "total": 0
+      },
+      {
+        "index": "2022",
+        "text_label": "(0)",
+        "total": 0
+      },
+      {
+        "index": "2023",
+        "text_label": "(0)",
+        "total": 0
+      },
+      {
+        "index": "2024",
+        "text_label": "(0)",
+        "total": 0
+      }
+    ]
+  },
+  "height": 140,
+  "layer": [
+    {
+      "encoding": {
+        "color": {
+          "field": "category",
+          "legend": null,
+          "scale": {
+            "range": [
+              "#e04c71",
+              "#e0cd92",
+              "#82b5cf"
+            ]
+          },
+          "sort": [
+            "Non-Commercial/\nAcademic",
+            "Unspecified",
+            "Commercial"
+          ],
+          "type": "nominal"
+        },
+        "order": {
+          "field": "order",
+          "type": "ordinal"
+        },
+        "x": {
+          "axis": {
+            "labelAngle": -25,
+            "labelFontSize": 14
+          },
+          "field": "index",
+          "sort": [
+            "< 2013",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020",
+            "2021",
+            "2022",
+            "2023",
+            "2024"
+          ],
+          "title": null,
+          "type": "nominal"
+        },
+        "y": {
+          "axis": {
+            "format": "%",
+            "labelFontSize": 14,
+            "title": "Percentage (%)",
+            "titleFontSize": 16,
+            "titleFontWeight": "normal"
+          },
+          "field": "percentage",
+          "scale": {
+            "domain": [
+              0,
+              1
+            ]
+          },
+          "sort": [
+            "Non-Commercial/\nAcademic",
+            "Unspecified",
+            "Commercial"
+          ],
+          "stack": "normalize",
+          "type": "quantitative"
+        }
+      },
+      "mark": {
+        "type": "bar",
+        "width": 50
+      }
+    },
+    {
+      "encoding": {
+        "color": {
+          "field": "category",
+          "legend": null,
+          "scale": {
+            "range": [
+              "#e04c71",
+              "#e0cd92",
+              "#82b5cf"
+            ]
+          },
+          "sort": [
+            "Non-Commercial/\nAcademic",
+            "Unspecified",
+            "Commercial"
+          ],
+          "type": "nominal"
+        },
+        "order": {
+          "field": "order",
+          "type": "ordinal"
+        },
+        "text": {
+          "condition": {
+            "field": "percentage",
+            "format": ".1f",
+            "test": "(datum.percentage > 8)",
+            "type": "quantitative"
+          },
+          "value": ""
+        },
+        "x": {
+          "axis": {
+            "labelAngle": -25,
+            "labelFontSize": 14
+          },
+          "field": "index",
+          "sort": [
+            "< 2013",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020",
+            "2021",
+            "2022",
+            "2023",
+            "2024"
+          ],
+          "title": null,
+          "type": "nominal"
+        },
+        "y": {
+          "axis": {
+            "format": "%",
+            "labelFontSize": 14,
+            "title": "Percentage (%)",
+            "titleFontSize": 16,
+            "titleFontWeight": "normal"
+          },
+          "field": "percentage",
+          "scale": {
+            "domain": [
+              0,
+              1
+            ]
+          },
+          "sort": [
+            "Non-Commercial/\nAcademic",
+            "Unspecified",
+            "Commercial"
+          ],
+          "stack": "normalize",
+          "type": "quantitative"
+        }
+      },
+      "mark": {
+        "align": "center",
+        "baseline": "middle",
+        "color": "white",
+        "dx": 0,
+        "dy": -7,
+        "fontSize": 14,
+        "type": "text"
+      }
+    },
+    {
+      "data": {
+        "name": "data-9796e2f2a07606254363878737048ba2"
+      },
+      "encoding": {
+        "text": {
+          "field": "text_label",
+          "type": "nominal"
+        },
+        "x": {
+          "field": "index",
+          "sort": [
+            "Non-Commercial/\nAcademic",
+            "Unspecified",
+            "Commercial"
+          ],
+          "title": null,
+          "type": "nominal"
+        },
+        "y": {
+          "value": 0
+        }
+      },
+      "mark": {
+        "align": "center",
+        "baseline": "top",
+        "dy": -32,
+        "fontSize": 14,
+        "type": "text"
+      }
+    }
+  ],
+  "title": "",
+  "width": 850
+}

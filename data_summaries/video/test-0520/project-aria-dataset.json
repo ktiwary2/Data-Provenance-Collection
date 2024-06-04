@@ -15,6 +15,9 @@
         "Text Sources": [
             "human"
         ],
+        "Video Task": [
+            "Egocentric View"
+        ],
         "Licenses": [
             {
                 "License": "Apache License 2.0",

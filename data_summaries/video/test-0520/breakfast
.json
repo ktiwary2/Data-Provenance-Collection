@@ -15,6 +15,10 @@
         "Text Sources": [
             "human"
         ],
+        "Video Task": [
+            "Video Captioning",
+            "Action Segmentation"
+        ],
         "Licenses": [
             {
                 "License": "CC BY 4.0",

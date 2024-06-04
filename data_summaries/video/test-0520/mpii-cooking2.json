@@ -15,6 +15,9 @@
         "Text Sources": [
             "human"
         ],
+        "Video Task": [
+            "Action Segmentation"
+        ],
         "Licenses": [
             {
                 "License": "Custom",

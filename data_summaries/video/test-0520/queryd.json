@@ -16,6 +16,9 @@
             "youtube",
             "youdescribe"
         ],
+        "Video Task": [
+            "Video Captioning"
+        ],
         "Licenses": [
             {
                 "License": "Unspecified",

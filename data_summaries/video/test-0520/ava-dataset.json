@@ -16,6 +16,9 @@
             "youtube",
             "movies"
         ],
+        "Video Task": [
+            "Video Classification"
+        ],
         "Licenses": [
             {
                 "License": "CC BY 4.0",

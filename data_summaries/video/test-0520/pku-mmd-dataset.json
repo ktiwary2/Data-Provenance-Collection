@@ -15,6 +15,9 @@
         "Text Sources": [
             "crowdsourced"
         ],
+        "Video Task": [
+            "Action Recognition"
+        ],
         "Licenses": [
             {
                 "License": "Unspecified",

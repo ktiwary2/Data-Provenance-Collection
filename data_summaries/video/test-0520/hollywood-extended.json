@@ -15,6 +15,10 @@
         "Text Sources": [
             "movies"
         ],
+        "Video Task": [
+            "Action Segmentation",
+            "Action Recognition"
+        ],
         "Licenses": [
             {
                 "License": "MIT License",

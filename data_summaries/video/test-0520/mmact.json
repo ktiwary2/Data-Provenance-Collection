@@ -15,6 +15,11 @@
         "Text Sources": [
             "human"
         ],
+        "Video Task": [
+            "Temporal Localization",
+            "Egocentric View",
+            "Action Recognition"
+        ],
         "Licenses": [
             {
                 "License": "Custom",
